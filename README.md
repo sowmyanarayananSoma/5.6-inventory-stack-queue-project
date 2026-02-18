@@ -1,4 +1,4 @@
-# Lesson 6 Lab — Inventory + Order Queue + Dispatch Stack
+# 5.6. Algorithm Mini Project — Inventory + Order Queue + Dispatch Stack
 
 ## Setup
 
